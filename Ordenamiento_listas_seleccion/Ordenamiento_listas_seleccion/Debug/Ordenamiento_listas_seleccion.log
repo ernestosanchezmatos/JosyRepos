@@ -1,0 +1,4 @@
+﻿  Ordenamiento_listas_seleccion.cpp
+C:\Users\Josy\source\repos\Ordenamiento_listas_seleccion\Ordenamiento_listas_seleccion\Ordenamiento_listas_seleccion.cpp(70,8): warning C4101: 'v': variable local sin referencia
+C:\Users\Josy\source\repos\Ordenamiento_listas_seleccion\Ordenamiento_listas_seleccion\Ordenamiento_listas_seleccion.cpp(70,15): warning C4101: 'codigo': variable local sin referencia
+  Ordenamiento_listas_seleccion.vcxproj -> C:\Users\Josy\source\repos\Ordenamiento_listas_seleccion\Debug\Ordenamiento_listas_seleccion.exe
