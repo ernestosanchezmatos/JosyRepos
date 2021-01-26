@@ -1,4 +1,4 @@
 ﻿  Ordenamiento_listas_seleccion.cpp
-C:\Users\Josy\source\repos\Ordenamiento_listas_seleccion\Ordenamiento_listas_seleccion\Ordenamiento_listas_seleccion.cpp(70,8): warning C4101: 'v': variable local sin referencia
-C:\Users\Josy\source\repos\Ordenamiento_listas_seleccion\Ordenamiento_listas_seleccion\Ordenamiento_listas_seleccion.cpp(70,15): warning C4101: 'codigo': variable local sin referencia
-  Ordenamiento_listas_seleccion.vcxproj -> C:\Users\Josy\source\repos\Ordenamiento_listas_seleccion\Debug\Ordenamiento_listas_seleccion.exe
+C:\Users\Lenovo\Documents\Proyecto Github\JosyRepos\Ordenamiento_listas_seleccion\Ordenamiento_listas_seleccion\Ordenamiento_listas_seleccion.cpp(93,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Documents\Proyecto Github\JosyRepos\Ordenamiento_listas_seleccion\Ordenamiento_listas_seleccion\Ordenamiento_listas_seleccion.cpp(110,10): warning C4129: 'D': secuencia de escape de carácter no reconocida
+  Ordenamiento_listas_seleccion.vcxproj -> C:\Users\Lenovo\Documents\Proyecto Github\JosyRepos\Ordenamiento_listas_seleccion\Debug\Ordenamiento_listas_seleccion.exe
